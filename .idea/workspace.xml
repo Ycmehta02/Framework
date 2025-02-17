@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8a369a5-cd55-4f19-b4f5-f688f6832f90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pageObjects/LoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+    <list default="true" id="b8a369a5-cd55-4f19-b4f5-f688f6832f90" name="Changes" comment="Session-1">
+      <change afterPath="$PROJECT_DIR$/Configurations/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/LoginData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCases/test_login_DataDrivenTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/XLUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/customLogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/readProperties.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObjects/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObjects/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +36,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ycmehta02"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ycmehta02&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ycmehta02/Framework.git",
-    "accountId": "22e8fcec-e4b0-4049-b985-01b441560ec2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ycmehta02/Framework.git&quot;,
+    &quot;accountId&quot;: &quot;22e8fcec-e4b0-4049-b985-01b441560ec2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2t14K4SJxSWZo9esaRdjP6MxUbz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,13 +64,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python tests.Python tests for test_login.Test_001_Login.executor": "Run",
+    "Python tests.Python tests for test_login.Test_001_Login.executor": "Debug",
+    "Python tests.Python tests for test_login.Test_001_Login.test_login.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/Alian/Desktop/YM_HybridFramework/testCases",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alian\Desktop\YM_HybridFramework\testCases" />
+      <recent name="C:\Users\Alian\Desktop\YM_HybridFramework\utilities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alian\Desktop\YM_HybridFramework\TestData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_login.Test_001_Login">
     <configuration name="Python tests for test_login.Test_001_Login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="YM_HybridFramework" />
       <option name="ENV_FILES" value="" />
@@ -83,8 +98,24 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_login.Test_001_Login.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="YM_HybridFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.Test_001_Login.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_login.Test_001_Login.test_login" />
         <item itemvalue="Python tests.Python tests for test_login.Test_001_Login" />
       </list>
     </recent_temporary>
@@ -105,9 +136,26 @@
       <option name="presentableId" value="Default" />
       <updated>1739506179999</updated>
     </task>
+    <task id="LOCAL-00001" summary="Session-1">
+      <option name="closed" value="true" />
+      <created>1739523215081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739523215082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.xlsx" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ea618fd5-b108-47e0-9c07-b7c931077c1c" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -115,7 +163,16 @@
             <State />
           </value>
         </entry>
+        <entry key="ea618fd5-b108-47e0-9c07-b7c931077c1c">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Session-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session-1" />
   </component>
 </project>

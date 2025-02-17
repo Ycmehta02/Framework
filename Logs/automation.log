@@ -1,0 +1,116 @@
+02/14/2025 04:51:02 PM: INFO: *******Test_001_Login*******
+02/14/2025 04:51:02 PM: INFO: *******Verifying Home Page Title*******
+02/14/2025 04:51:04 PM: INFO: *******HomePage title test Passed*******
+02/14/2025 04:51:07 PM: INFO: *******Verifying Login test*******
+02/14/2025 04:51:09 PM: ERROR: *******Dashboard title test passed*******
+02/14/2025 04:52:26 PM: INFO: *******Test_001_Login*******
+02/14/2025 04:52:26 PM: INFO: *******Verifying Home Page Title*******
+02/14/2025 04:52:27 PM: INFO: *******HomePage title test Passed*******
+02/14/2025 04:52:29 PM: INFO: *******Verifying Login test*******
+02/14/2025 04:52:31 PM: INFO: *******Dashboard title test passed*******
+02/14/2025 05:11:32 PM: INFO: *******Test_001_Login*******
+02/14/2025 05:11:32 PM: INFO: *******Verifying Home Page Title*******
+02/14/2025 05:11:33 PM: INFO: *******HomePage title test Passed*******
+02/14/2025 05:11:35 PM: INFO: *******Verifying Login test*******
+02/14/2025 05:11:37 PM: INFO: *******Dashboard title test passed*******
+02/14/2025 05:41:35 PM: INFO: *******Test_001_Login*******
+02/14/2025 05:41:35 PM: INFO: *******Verifying Home Page Title*******
+02/14/2025 05:41:36 PM: INFO: *******Verifying Login test*******
+02/14/2025 05:41:39 PM: INFO: *******Dashboard title test passed*******
+02/14/2025 05:41:39 PM: INFO: *******HomePage title test Passed*******
+02/14/2025 05:47:59 PM: INFO: *******Verifying Login test*******
+02/14/2025 05:47:59 PM: INFO: *******Test_001_Login*******
+02/14/2025 05:47:59 PM: INFO: *******Verifying Home Page Title*******
+02/14/2025 05:48:02 PM: INFO: *******HomePage title test Passed*******
+02/14/2025 05:48:03 PM: INFO: *******Dashboard title test passed*******
+02/14/2025 05:52:11 PM: INFO: *******Verifying Login test*******
+02/14/2025 05:52:11 PM: INFO: *******Test_001_Login*******
+02/14/2025 05:52:11 PM: INFO: *******Verifying Home Page Title*******
+02/14/2025 05:52:14 PM: INFO: *******HomePage title test Passed*******
+02/14/2025 05:52:15 PM: INFO: *******Dashboard title test passed*******
+02/14/2025 05:56:27 PM: INFO: *******Test_001_Login*******
+02/14/2025 05:56:27 PM: INFO: *******Verifying Home Page Title*******
+02/14/2025 05:56:27 PM: INFO: *******Verifying Login test*******
+02/14/2025 05:56:30 PM: INFO: *******HomePage title test Passed*******
+02/14/2025 05:56:30 PM: INFO: *******Dashboard title test passed*******
+02/17/2025 09:59:20 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 09:59:20 AM: INFO: *******Verifying Login test*******
+02/17/2025 09:59:27 AM: INFO: **Passed**
+02/17/2025 09:59:27 AM: INFO: Login DDT Test Passed
+02/17/2025 10:02:40 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:02:40 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:02:47 AM: INFO: **Passed**
+02/17/2025 10:02:48 AM: INFO: Login DDT Test Passed
+02/17/2025 10:06:34 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:06:34 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:06:41 AM: INFO: **Passed**
+02/17/2025 10:07:46 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:07:46 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:07:52 AM: INFO: **Passed**
+02/17/2025 10:08:31 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:08:31 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:08:38 AM: INFO: **Passed**
+02/17/2025 10:08:50 AM: INFO: ***Passed***
+02/17/2025 10:08:56 AM: INFO: ***Passed***
+02/17/2025 10:09:02 AM: INFO: ***Passed***
+02/17/2025 10:09:02 AM: INFO: Login DDT Test Passed
+02/17/2025 10:09:02 AM: INFO: -----End of Login Test_002-------
+02/17/2025 10:15:06 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:15:06 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:15:13 AM: INFO: **Passed**
+02/17/2025 10:15:27 AM: INFO: ***Passed***
+02/17/2025 10:15:33 AM: INFO: ***Passed***
+02/17/2025 10:15:39 AM: INFO: ***Passed***
+02/17/2025 10:15:39 AM: INFO: Login DDT Test Passed
+02/17/2025 10:15:39 AM: INFO: -----End of Login Test_002-------
+02/17/2025 10:32:17 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:32:17 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:32:18 AM: INFO: Total Rows in Excel: 5
+02/17/2025 10:32:24 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:32:24 AM: INFO: **Failed** - Expected Pass but Title did not match
+02/17/2025 10:32:30 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:32:30 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:32:36 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:32:36 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:32:41 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:32:41 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:32:42 AM: INFO: Login Test Failed
+02/17/2025 10:35:56 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:35:56 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:35:57 AM: INFO: Total Rows in Excel: 5
+02/17/2025 10:36:03 AM: INFO: Actual Title: My Account, Expected Title: My Account
+02/17/2025 10:36:03 AM: INFO: **Passed**
+02/17/2025 10:36:15 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:36:15 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:36:22 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:36:22 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:36:28 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:36:28 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:36:28 AM: INFO: Login DDT Test Passed
+02/17/2025 10:36:28 AM: INFO: -----End of Login Test_002-------
+02/17/2025 10:49:31 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:49:31 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:49:32 AM: INFO: Total Rows in Excel: 5
+02/17/2025 10:49:39 AM: INFO: Actual Title: My Account, Expected Title: My Account
+02/17/2025 10:49:39 AM: INFO: **Passed**
+02/17/2025 10:49:50 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:49:50 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:49:56 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:49:56 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:50:02 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:50:02 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:50:03 AM: INFO: Login DDT Test Passed
+02/17/2025 10:50:03 AM: INFO: -----End of Login Test_002-------
+02/17/2025 10:51:51 AM: INFO: *******Test_002_DDT_Login*******
+02/17/2025 10:51:51 AM: INFO: *******Verifying Login test*******
+02/17/2025 10:51:52 AM: INFO: Total Rows in Excel: 5
+02/17/2025 10:51:58 AM: INFO: Actual Title: My Account, Expected Title: My Account
+02/17/2025 10:51:58 AM: INFO: **Passed**
+02/17/2025 10:52:09 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:52:09 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:52:15 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:52:15 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:52:21 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/17/2025 10:52:21 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/17/2025 10:52:22 AM: INFO: Login DDT Test Passed
+02/17/2025 10:52:22 AM: INFO: -----End of Login Test_002-------
