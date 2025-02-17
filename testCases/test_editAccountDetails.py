@@ -3,13 +3,15 @@
 import time
 
 from selenium.webdriver.common.by import By
-
+import pytest
 from pageObjects.EditAccountPage import EditAccountDetail
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 from testCases.conftest import setup
 
+@pytest.mark.sanity
+@pytest.mark.regression
 class Test_003_EditAccountDetails:
     baseURL = ReadConfig.getapplication_url()
     user = ReadConfig.getusermail()

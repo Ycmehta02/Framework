@@ -1,4 +1,7 @@
 import time
+
+import pytest
+
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
@@ -70,6 +73,8 @@ class Test002Login:
     #         assert False
     #
     #     self.logger.info("-----End of Login Test_002-------")
+
+    @pytest.mark.regression
     def test_login_ddt(self,setup):
         self.logger.info("*******Test_002_DDT_Login*******")
         self.logger.info("*******Verifying Login test*******")
