@@ -25,13 +25,13 @@ def browser(request): #return the browser value to setup method
 
 #----------------------------Pytest HTML Report -------------------------------
 
-# Hook to add environment info to HTML report
-def pytest_configure(config):
-    config._metadata['Project Name'] = 'Tutorials Ninja'
-    config._metadata['Module Name'] = 'Customers'
-    config._metadata['Tester'] = 'YM'
-
-# Hook to modify/delete environment info in HTML report
-def pytest_metadata(metadata):
-    metadata.pop("Java_Home", None)
-    metadata.pop("Plugins", None)
+# # Hook to add environment info to HTML report
+# def pytest_configure(config):
+#     config._metadata['Project Name'] = 'Tutorials Ninja'
+#     config._metadata['Module Name'] = 'Customers'
+#     config._metadata['Tester'] = 'YM'
+#
+# # Hook to modify/delete environment info in HTML report
+# def pytest_metadata(metadata):
+#     metadata.pop("Java_Home", None)
+#     metadata.pop("Plugins", None)

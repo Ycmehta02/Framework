@@ -114,3 +114,29 @@
 02/17/2025 10:52:21 AM: INFO: **Passed** - Expected Failure and Title did not match
 02/17/2025 10:52:22 AM: INFO: Login DDT Test Passed
 02/17/2025 10:52:22 AM: INFO: -----End of Login Test_002-------
+02/17/2025 02:47:46 PM: INFO: *** Test_003_Edit Account Details ***
+02/17/2025 02:47:48 PM: INFO: *** Login Successful ***
+02/17/2025 02:47:48 PM: INFO:  *** Editing Account Details ***
+02/17/2025 02:47:49 PM: INFO:  *** Values submitted ***
+02/17/2025 02:51:46 PM: INFO: *** Test_003_Edit Account Details ***
+02/17/2025 02:51:47 PM: INFO: *** Login Successful ***
+02/17/2025 02:51:47 PM: INFO:  *** Editing Account Details ***
+02/17/2025 02:51:49 PM: INFO:  *** Values submitted ***
+02/17/2025 02:54:47 PM: INFO: *** Test_003_Edit Account Details ***
+02/17/2025 02:54:49 PM: INFO: *** Login Successful ***
+02/17/2025 02:54:49 PM: INFO:  *** Editing Account Details ***
+02/17/2025 02:54:50 PM: INFO:  *** Values submitted ***
+02/17/2025 02:55:53 PM: INFO: *** Test_003_Edit Account Details ***
+02/17/2025 02:55:55 PM: INFO: *** Login Successful ***
+02/17/2025 02:55:55 PM: INFO:  *** Editing Account Details ***
+02/17/2025 02:55:56 PM: INFO:  *** Values submitted ***
+02/17/2025 02:58:43 PM: INFO: *** Test_003_Edit Account Details ***
+02/17/2025 02:58:46 PM: INFO: *** Login Successful ***
+02/17/2025 02:58:46 PM: INFO:  *** Editing Account Details ***
+02/17/2025 02:58:47 PM: INFO:  *** Values submitted ***
+02/17/2025 02:58:52 PM: INFO:  ***Test Case Passed*** 
+02/17/2025 03:21:09 PM: INFO: *** Test_003_Edit Account Details ***
+02/17/2025 03:21:11 PM: INFO: *** Login Successful ***
+02/17/2025 03:21:11 PM: INFO:  *** Editing Account Details ***
+02/17/2025 03:21:12 PM: INFO:  *** Values submitted ***
+02/17/2025 03:21:18 PM: INFO:  ***Test Case Passed*** 
