@@ -152,3 +152,31 @@
 02/17/2025 05:43:46 PM: INFO:  ***Test Case Passed*** 
 02/17/2025 05:43:47 PM: INFO: *******Verifying Login test*******
 02/17/2025 05:43:49 PM: INFO: *******Dashboard title test passed*******
+02/18/2025 06:10:44 PM: INFO: *** Test_003_Edit Account Details ***
+02/18/2025 06:10:46 PM: INFO: *** Login Successful ***
+02/18/2025 06:10:46 PM: INFO:  *** Editing Account Details ***
+02/18/2025 06:10:47 PM: INFO:  *** Values submitted ***
+02/18/2025 06:10:53 PM: INFO:  ***Test Case Passed*** 
+02/18/2025 06:10:55 PM: INFO: *******Test_001_Login*******
+02/18/2025 06:10:55 PM: INFO: *******Verifying Home Page Title*******
+02/18/2025 06:10:56 PM: INFO: *******HomePage title test Passed*******
+02/18/2025 06:10:58 PM: INFO: *******Verifying Login test*******
+02/18/2025 06:11:01 PM: INFO: *******Dashboard title test passed*******
+02/18/2025 06:11:03 PM: INFO: *******Test_002_DDT_Login*******
+02/18/2025 06:11:03 PM: INFO: *******Verifying Login test*******
+02/18/2025 06:11:04 PM: INFO: Total Rows in Excel: 5
+02/18/2025 06:11:10 PM: INFO: Actual Title: My Account, Expected Title: My Account
+02/18/2025 06:11:10 PM: INFO: **Passed**
+02/18/2025 06:11:22 PM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/18/2025 06:11:22 PM: INFO: **Passed** - Expected Failure and Title did not match
+02/18/2025 06:11:28 PM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/18/2025 06:11:28 PM: INFO: **Passed** - Expected Failure and Title did not match
+02/18/2025 06:11:34 PM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/18/2025 06:11:34 PM: INFO: **Passed** - Expected Failure and Title did not match
+02/18/2025 06:11:34 PM: INFO: Login DDT Test Passed
+02/18/2025 06:11:34 PM: INFO: -----End of Login Test_002-------
+02/19/2025 08:39:36 AM: INFO: *******Test_001_Login*******
+02/19/2025 08:39:36 AM: INFO: *******Verifying Home Page Title*******
+02/19/2025 08:39:37 AM: INFO: *******HomePage title test Passed*******
+02/19/2025 08:39:40 AM: INFO: *******Verifying Login test*******
+02/19/2025 08:39:42 AM: INFO: *******Dashboard title test passed*******
