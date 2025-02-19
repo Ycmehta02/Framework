@@ -180,3 +180,26 @@
 02/19/2025 08:39:37 AM: INFO: *******HomePage title test Passed*******
 02/19/2025 08:39:40 AM: INFO: *******Verifying Login test*******
 02/19/2025 08:39:42 AM: INFO: *******Dashboard title test passed*******
+02/19/2025 10:09:56 AM: INFO: *** Test_003_Edit Account Details ***
+02/19/2025 10:09:59 AM: INFO: *** Login Successful ***
+02/19/2025 10:09:59 AM: INFO:  *** Editing Account Details ***
+02/19/2025 10:10:01 AM: INFO:  *** Values submitted ***
+02/19/2025 10:10:07 AM: INFO:  ***Test Case Passed*** 
+02/19/2025 10:10:09 AM: INFO: *******Test_001_Login*******
+02/19/2025 10:10:09 AM: INFO: *******Verifying Home Page Title*******
+02/19/2025 10:10:13 AM: INFO: *******HomePage title test Passed*******
+02/19/2025 10:10:16 AM: INFO: *******Verifying Login test*******
+02/19/2025 10:10:21 AM: INFO: *******Dashboard title test passed*******
+02/19/2025 10:10:25 AM: INFO: *******Test_002_DDT_Login*******
+02/19/2025 10:10:25 AM: INFO: *******Verifying Login test*******
+02/19/2025 10:10:26 AM: INFO: Total Rows in Excel: 5
+02/19/2025 10:10:33 AM: INFO: Actual Title: My Account, Expected Title: My Account
+02/19/2025 10:10:33 AM: INFO: **Passed**
+02/19/2025 10:10:45 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/19/2025 10:10:45 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/19/2025 10:10:51 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/19/2025 10:10:51 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/19/2025 10:10:57 AM: INFO: Actual Title: Account Login, Expected Title: My Account
+02/19/2025 10:10:57 AM: INFO: **Passed** - Expected Failure and Title did not match
+02/19/2025 10:10:57 AM: INFO: Login DDT Test Passed
+02/19/2025 10:10:57 AM: INFO: -----End of Login Test_002-------

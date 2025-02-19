@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_editAccountDetails.py:26 *** Test_003_Edit Account Details ***
+[32mINFO    [0m root:test_editAccountDetails.py:35 *** Login Successful ***
+[32mINFO    [0m root:test_editAccountDetails.py:36  *** Editing Account Details ***
+[32mINFO    [0m root:test_editAccountDetails.py:49  *** Values submitted ***
+[32mINFO    [0m root:test_editAccountDetails.py:57  ***Test Case Passed***

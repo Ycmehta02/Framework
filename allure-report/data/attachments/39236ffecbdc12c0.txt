@@ -1,0 +1,13 @@
+[32mINFO    [0m root:test_login_DataDrivenTest.py:79 *******Test_002_DDT_Login*******
+[32mINFO    [0m root:test_login_DataDrivenTest.py:80 *******Verifying Login test*******
+[32mINFO    [0m root:test_login_DataDrivenTest.py:87 Total Rows in Excel: 5
+[32mINFO    [0m root:test_login_DataDrivenTest.py:105 Actual Title: My Account, Expected Title: My Account
+[32mINFO    [0m root:test_login_DataDrivenTest.py:110 **Passed**
+[32mINFO    [0m root:test_login_DataDrivenTest.py:105 Actual Title: Account Login, Expected Title: My Account
+[32mINFO    [0m root:test_login_DataDrivenTest.py:124 **Passed** - Expected Failure and Title did not match
+[32mINFO    [0m root:test_login_DataDrivenTest.py:105 Actual Title: Account Login, Expected Title: My Account
+[32mINFO    [0m root:test_login_DataDrivenTest.py:124 **Passed** - Expected Failure and Title did not match
+[32mINFO    [0m root:test_login_DataDrivenTest.py:105 Actual Title: Account Login, Expected Title: My Account
+[32mINFO    [0m root:test_login_DataDrivenTest.py:124 **Passed** - Expected Failure and Title did not match
+[32mINFO    [0m root:test_login_DataDrivenTest.py:132 Login DDT Test Passed
+[32mINFO    [0m root:test_login_DataDrivenTest.py:140 -----End of Login Test_002-------
